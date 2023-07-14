@@ -1,6 +1,5 @@
 .hed{
     color: #272727;
-font-family: Lato;
 font-size: 80px;
 
 font-weight: 800;
@@ -109,5 +108,120 @@ background: rgba(5, 151, 160, 0.15);
 }
 
 
+.background{
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    width: 1440px;
+    height: 320px;
+  
+ 
+}
+.islam{
+    display: flex;
+}
+section > img{
+   
+width: 88px;
+height: 88px;
+flex-shrink: 0;
+}
+.first-p{
+    color: rgba(39, 39, 39, 0.80);
+    text-align: center;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+}
+.sec-pic{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
 
+font-weight: 600;
+line-height: 35px;
+}
+.th-p{
+    color: rgba(39, 39, 39, 0.80);
+text-align: center;
+font-family: Lato;
+font-size: 24px;
+
+font-weight: 600;
+line-height: 35px; /* 145.833% */
+}
+.high{
+padding: 100px 0px 0px 250px;
+
+}
+.pic{
+    padding: 100px 0px 0px 200px;
     
+}
+.pici{
+    padding: 100px 70px 0px 200px;
+    
+}
+.picj{
+    padding: 100px 120px 0px 0px;
+    
+}
+
+/* new */
+
+.last{
+
+    border-radius: 8px;
+background: rgba(229, 84, 115, 0.05);
+width: 1922px;
+height: 620px;
+flex-shrink: 0;
+padding-right: 100px;
+
+}
+.again{
+    color: #272727;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 230px 962px 0px 423px;
+}
+.lorem{
+padding-left: 200px;
+}
+span{
+    color: #E55473;
+}
+.button-fnt{
+    border-radius: 8px;
+background: #E55473;
+display: inline-flex;
+padding: 20px 43px;
+align:center;
+gap: 10px;
+color: #FFF;
+font-size: 20px;
+font-weight: 700;
+
+
+}
+.lastp{
+    padding-left: 450px;
+}
+.btn{
+   padding-left: 900px;
+}
+
+/* new */
+.insta{
+    text-align: center;
+    padding-top: 50px;
+}
+.downp{
+padding-left: 400px;
+}
+.newpic{
+    padding-left: 340px;
+}
