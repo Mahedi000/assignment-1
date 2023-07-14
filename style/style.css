@@ -207,6 +207,7 @@ font-weight: 700;
 
 
 }
+
 .lastp{
     padding-left: 450px;
 }
@@ -224,4 +225,94 @@ padding-left: 400px;
 }
 .newpic{
     padding-left: 340px;
+    padding-top: 40px;
+}
+.b-img{
+    background: url('../flower-shop-assignment/Flower\ Asset/Rectangle-9.png');
+    
+    width: 1440px;
+    height: 449px;
+
+}
+.back{
+    padding-left: 330px;
+    padding-top: 90px;
+}
+.g{
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+background: #FFF;
+
+
+}
+.email{
+    padding-left: 350px;
+    padding-top: 100px;
+}
+.sub{
+    width: 150px;
+    height: 64px;
+    border-radius: 8px;
+background: #E55473;
+padding-left: 20px;
+    
+}
+.get{
+    color: #272727;
+font-size: 40px;
+font-weight: 800;
+padding-left: 250px;
+
+}
+.dlr{
+    padding-left: 300px;
+    padding-bottom: 50;
+}
+
+
+
+/* footer */
+.bkcl{
+
+    width: 1922px;
+height: 449px;
+flex-shrink: 0;
+background: #111010;
+
+}
+.clr{
+    padding-top: 60px;
+padding-left: 60px;
+}
+
+.fls{
+    color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+color: #FFF;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+padding-left: 570px;
+
+}
+.sclr{
+
+    color: #E55473;
+}
+.fine{
+    color: rgba(255, 255, 255, 0.90);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+
+font-weight: 400;
+line-height: 30px; 
+padding-left: 400px;
+}
+.final{
+ padding-top:  100px;
+ padding-left: 240px;
 }
