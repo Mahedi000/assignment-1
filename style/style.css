@@ -1,0 +1,113 @@
+.hed{
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+
+font-weight: 800;
+padding: 197px 972px 0px 240px;
+}
+ p{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    width: 634px;
+    padding-left: 240px;
+  
+
+}
+
+
+.first-pera{
+    background : rgba(229, 84, 115, 0.10);
+    width: 1920px;
+    height: 850px;
+    background-image: url('../flower-shop-assignment/Flower\ Asset/pngwing-10.png');
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+.button-font{
+    align-items: flex-start;
+    display: inline-flex;
+    padding: 20px 43px;
+    gap: 10px;
+    color: #f8eded;
+    border-radius: 8px;
+    background: #E55473;
+    font-size: 20px;
+    font-weight: 700px;
+   margin-right: 240px;
+}
+
+/* Main function */
+
+.main-h3{
+     color: #272727;
+     text-align: center;
+     font-size: 40px;
+     font-weight: 800;
+     padding-top: 100px;
+}
+.main-pera{
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;
+padding-left: 380px; 
+
+
+}
+/* flower */
+
+.flw{
+    width: 1920px;
+height: 4867px;
+}
+.flower{
+  
+    display: flex;
+    gap: 30px;
+    padding-left: 100px;
+  
+ 
+}
+.fig{
+    color: #272727;
+
+font-family: Lato;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 35px; /* 145.833% */
+text-decoration-line: underline;
+
+}
+.imgi{
+   
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    width: 464px;
+   height: 538px;
+    flex-shrink: 0;
+    
+}
+.imgj{
+   
+    border-radius: 300px 300px 0px 0px;
+background: rgba(5, 151, 160, 0.15);
+    width: 464px;
+   height: 538px;
+    flex-shrink: 0;
+    
+}
+.imgk{
+   
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    width: 464px;
+   height: 538px;
+    flex-shrink: 0;
+    
+}
+
+
+
+    
